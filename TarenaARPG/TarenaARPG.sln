@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarenaARPG", "TarenaARPG.csproj", "{F41D9D11-7584-5B94-B185-3D0B5898CA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarenaARPG.Plugins", "TarenaARPG.Plugins.csproj", "{8CED7D8B-7C75-EA48-9B99-241991E80282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarenaARPG.Editor", "TarenaARPG.Editor.csproj", "{BB27EEB5-43C3-A2A2-218F-86C82B1689E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarenaARPG.Editor.Plugins", "TarenaARPG.Editor.Plugins.csproj", "{F5C39C67-E1CB-EE94-B383-5C5169A8F496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F41D9D11-7584-5B94-B185-3D0B5898CA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41D9D11-7584-5B94-B185-3D0B5898CA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41D9D11-7584-5B94-B185-3D0B5898CA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41D9D11-7584-5B94-B185-3D0B5898CA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CED7D8B-7C75-EA48-9B99-241991E80282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CED7D8B-7C75-EA48-9B99-241991E80282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CED7D8B-7C75-EA48-9B99-241991E80282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CED7D8B-7C75-EA48-9B99-241991E80282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB27EEB5-43C3-A2A2-218F-86C82B1689E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB27EEB5-43C3-A2A2-218F-86C82B1689E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB27EEB5-43C3-A2A2-218F-86C82B1689E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB27EEB5-43C3-A2A2-218F-86C82B1689E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C39C67-E1CB-EE94-B383-5C5169A8F496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C39C67-E1CB-EE94-B383-5C5169A8F496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C39C67-E1CB-EE94-B383-5C5169A8F496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C39C67-E1CB-EE94-B383-5C5169A8F496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
