@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 9d343efd2038dbf4c8464dc1023f78db
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Object002
+    100002: Object004
+    100004: Object006
+    100006: Object008
+    100008: Object010
+    100010: Object012
+    100012: Object014
+    100014: Object016
+    100016: Object018
+    100018: Object020
+    100020: Object022
+    100022: Object024
+    100024: Object026
+    100026: Object028
+    100028: Object030
+    100030: Object032
+    100032: Object034
+    100034: Object038
+    100036: Object044
+    100038: Object046
+    100040: Object054
+    100042: Object056
+    100044: Object058
+    100046: Object060
+    100048: Object062
+    100050: Object064
+    100052: Object066
+    100054: Object068
+    100056: Object070
+    100058: Object072
+    100060: Object076
+    100062: Object082
+    100064: Object086
+    100066: Object092
+    100068: Object094
+    100070: Object096
+    100072: Object100
+    100074: Object104
+    100076: Object106
+    100078: Object108
+    100080: Object110
+    100082: Object116
+    100084: Object118
+    100086: Object120
+    100088: Scene_Rock_03
+    100090: Scene_Wagon_Damage
+    100092: //RootNode
+    400000: Object002
+    400002: Object004
+    400004: Object006
+    400006: Object008
+    400008: Object010
+    400010: Object012
+    400012: Object014
+    400014: Object016
+    400016: Object018
+    400018: Object020
+    400020: Object022
+    400022: Object024
+    400024: Object026
+    400026: Object028
+    400028: Object030
+    400030: Object032
+    400032: Object034
+    400034: Object038
+    400036: Object044
+    400038: Object046
+    400040: Object054
+    400042: Object056
+    400044: Object058
+    400046: Object060
+    400048: Object062
+    400050: Object064
+    400052: Object066
+    400054: Object068
+    400056: Object070
+    400058: Object072
+    400060: Object076
+    400062: Object082
+    400064: Object086
+    400066: Object092
+    400068: Object094
+    400070: Object096
+    400072: Object100
+    400074: Object104
+    400076: Object106
+    400078: Object108
+    400080: Object110
+    400082: Object116
+    400084: Object118
+    400086: Object120
+    400088: Scene_Rock_03
+    400090: Scene_Wagon_Damage
+    400092: //RootNode
+    2300000: Object002
+    2300002: Object004
+    2300004: Object006
+    2300006: Object008
+    2300008: Object010
+    2300010: Object012
+    2300012: Object014
+    2300014: Object016
+    2300016: Object018
+    2300018: Object020
+    2300020: Object022
+    2300022: Object024
+    2300024: Object026
+    2300026: Object028
+    2300028: Object030
+    2300030: Object032
+    2300032: Object034
+    2300034: Object038
+    2300036: Object044
+    2300038: Object046
+    2300040: Object054
+    2300042: Object056
+    2300044: Object058
+    2300046: Object060
+    2300048: Object062
+    2300050: Object064
+    2300052: Object066
+    2300054: Object068
+    2300056: Object070
+    2300058: Object072
+    2300060: Object076
+    2300062: Object082
+    2300064: Object086
+    2300066: Object092
+    2300068: Object094
+    2300070: Object096
+    2300072: Object100
+    2300074: Object104
+    2300076: Object106
+    2300078: Object108
+    2300080: Object110
+    2300082: Object116
+    2300084: Object118
+    2300086: Object120
+    2300088: Scene_Rock_03
+    2300090: Scene_Wagon_Damage
+    3300000: Object002
+    3300002: Object004
+    3300004: Object006
+    3300006: Object008
+    3300008: Object010
+    3300010: Object012
+    3300012: Object014
+    3300014: Object016
+    3300016: Object018
+    3300018: Object020
+    3300020: Object022
+    3300022: Object024
+    3300024: Object026
+    3300026: Object028
+    3300028: Object030
+    3300030: Object032
+    3300032: Object034
+    3300034: Object038
+    3300036: Object044
+    3300038: Object046
+    3300040: Object054
+    3300042: Object056
+    3300044: Object058
+    3300046: Object060
+    3300048: Object062
+    3300050: Object064
+    3300052: Object066
+    3300054: Object068
+    3300056: Object070
+    3300058: Object072
+    3300060: Object076
+    3300062: Object082
+    3300064: Object086
+    3300066: Object092
+    3300068: Object094
+    3300070: Object096
+    3300072: Object100
+    3300074: Object104
+    3300076: Object106
+    3300078: Object108
+    3300080: Object110
+    3300082: Object116
+    3300084: Object118
+    3300086: Object120
+    3300088: Scene_Rock_03
+    3300090: Scene_Wagon_Damage
+    4300000: Scene_Wagon_Damage
+    4300002: Scene_Rock_03
+    4300004: Object002
+    4300006: Object004
+    4300008: Object006
+    4300010: Object008
+    4300012: Object010
+    4300014: Object012
+    4300016: Object014
+    4300018: Object016
+    4300020: Object018
+    4300022: Object020
+    4300024: Object022
+    4300026: Object024
+    4300028: Object026
+    4300030: Object028
+    4300032: Object030
+    4300034: Object032
+    4300036: Object034
+    4300038: Object038
+    4300040: Object044
+    4300042: Object046
+    4300044: Object054
+    4300046: Object056
+    4300048: Object058
+    4300050: Object060
+    4300052: Object062
+    4300054: Object064
+    4300056: Object066
+    4300058: Object068
+    4300060: Object070
+    4300062: Object072
+    4300064: Object076
+    4300066: Object082
+    4300068: Object086
+    4300070: Object092
+    4300072: Object094
+    4300074: Object096
+    4300076: Object100
+    4300078: Object104
+    4300080: Object106
+    4300082: Object108
+    4300084: Object110
+    4300086: Object116
+    4300088: Object118
+    4300090: Object120
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: -1
+      lastFrame: 100
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Object002
+        weight: 1
+      - path: Object004
+        weight: 1
+      - path: Object006
+        weight: 1
+      - path: Object008
+        weight: 1
+      - path: Object010
+        weight: 1
+      - path: Object012
+        weight: 1
+      - path: Object014
+        weight: 1
+      - path: Object016
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object024
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object038
+        weight: 1
+      - path: Object044
+        weight: 1
+      - path: Object046
+        weight: 1
+      - path: Object054
+        weight: 1
+      - path: Object056
+        weight: 1
+      - path: Object058
+        weight: 1
+      - path: Object060
+        weight: 1
+      - path: Object062
+        weight: 1
+      - path: Object064
+        weight: 1
+      - path: Object066
+        weight: 1
+      - path: Object068
+        weight: 1
+      - path: Object070
+        weight: 1
+      - path: Object072
+        weight: 1
+      - path: Object076
+        weight: 1
+      - path: Object082
+        weight: 1
+      - path: Object086
+        weight: 1
+      - path: Object092
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object100
+        weight: 1
+      - path: Object104
+        weight: 1
+      - path: Object106
+        weight: 1
+      - path: Object108
+        weight: 1
+      - path: Object110
+        weight: 1
+      - path: Object116
+        weight: 1
+      - path: Object118
+        weight: 1
+      - path: Object120
+        weight: 1
+      - path: Scene_Rock_03
+        weight: 1
+      - path: Scene_Wagon_Damage
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
